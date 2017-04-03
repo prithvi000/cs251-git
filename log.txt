@@ -1,0 +1,49 @@
+*   commit 7fb9535230bd78b116008600d0b30f3ba61d71b3
+|\  Merge: 8e8ca81 599911d
+| | Author: abhinaynatti <nattiabhinay55@gmail.com>
+| | Date:   Tue Apr 4 00:57:54 2017 +0530
+| | 
+| |     after conflict
+| |     
+| *   commit 599911dca4eb9ce79fcf559fbbd76d33663725cd
+| |\  Merge: f235398 b1f966a
+| | | Author: prithvi000 <prithvirajchavan33@gmail.com>
+| | | Date:   Mon Apr 3 00:53:32 2017 +0530
+| | | 
+| | |     Resolved Conflict
+| | |    
+| | * commit b1f966af799af2b2cc2071e33704d022bce65ecb
+| | | Author: Abhimanyu <abhimanyu29.18@gmail.com>
+| | | Date:   Mon Apr 3 00:48:51 2017 +0530
+| | | 
+| | |     Updated review of 3-Idiots
+| | |    
+| | * commit 9d8c650f4265fdf985d2cb10fa0e9917d89fab17
+| | | Author: Abhimanyu <abhimanyu29.18@gmail.com>
+| | | Date:   Mon Apr 3 00:48:07 2017 +0530
+| | | 
+| | |     Added review of sholay
+| | |    
+| * | commit f235398db51b5dd130842c64ee22ba4a0f692371
+| | | Author: prithvi000 <prithvirajchavan33@gmail.com>
+| | | Date:   Mon Apr 3 00:50:26 2017 +0530
+| | | 
+| | |     Added writer for 3 Idiots
+| | |    
+| * | commit c3c93aec8907332de117ccc5943a80471a5f2c0b
+| |/  Author: prithvi000 <prithvirajchavan33@gmail.com>
+| |   Date:   Mon Apr 3 00:49:32 2017 +0530
+| |   
+| |       Added director for 3 Idiots
+| |   
+* | commit 8e8ca81039c8d140c9f27a2acae30af6855d607e
+|/  Author: abhinaynatti <nattiabhinay55@gmail.com>
+|   Date:   Tue Apr 4 00:50:28 2017 +0530
+|   
+|       added actors names and a new movie
+|  
+* commit 232c887a71d0a102c7307420af6ef76ebd187db3
+  Author: prithvi000 <prithvirajchavan33@gmail.com>
+  Date:   Mon Apr 3 00:43:56 2017 +0530
+  
+      Added a review
